@@ -86,6 +86,8 @@ Lo script:
 -   salverà gli ultimi numeri di protocollo utilizzati per continuare la
     numerazione nelle esecuzioni successive.
 
+-   dentro cartelle hai i file che si chiamono .gitignore gli puoi eliminare senza i problemi(non servono per il programma)
+
 ## Requirements
 
     PyPDF2
