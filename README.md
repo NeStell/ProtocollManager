@@ -70,9 +70,6 @@ Lo script creerà automaticamente le cartelle di output:
 1.  Inserisci i PDF da protocollare nelle cartelle previste.\
 2.  Avvia lo script:
 
-```{=html}
-<!-- -->
-```
     python main.py
 
 Lo script:
@@ -80,16 +77,10 @@ Lo script:
 -   protocollerà tutti i PDF trovati;
 -   creerà nelle cartelle di output file del tipo:
 
-```{=html}
-<!-- -->
-```
     001_nomefile.pdf
 
 -   scriverà dentro il PDF una riga come:
 
-```{=html}
-<!-- -->
-```
     Protocollo N° 1 | Data: 25/11/2025 | Acquisto - Fattura Normale
 
 -   salverà gli ultimi numeri di protocollo utilizzati per continuare la
