@@ -58,7 +58,7 @@ Lo script creerà automaticamente le cartelle di output:
 
 ### 2. Scarica il programma
 
-    scarica il programma in Release del sito
+    scarica il programma cliccando il code e dopo installa .zip
 
 
 ### 3. Installa i requisiti
