@@ -60,14 +60,20 @@ Lo script creerà automaticamente le cartelle di output:
 
     scarica il programma cliccando il code e dopo installa .zip
 
+### 3. Apri Prompt dei commandi dentro la cartella
 
-### 3. Installa i requisiti
+    cmd
+    <img width="859" height="129" alt="image" src="https://github.com/user-attachments/assets/432143f8-1858-480e-8f79-40fea33eeecd" />
+
+
+### 4. Installa i requisiti
 
     pip install -r requirements.txt
 
+    
 ## Come avviare
 
-1.  Inserisci i PDF da protocollare nelle cartelle previste.\
+1.  Inserisci i PDF da protocollare nelle cartelle previste.
 2.  Avvia lo script:
 
     python main.py
