@@ -97,13 +97,13 @@ Lo script:
     reportlab
 
 ## Google Drive
-* **I file PDF da protocollare vengono scaricati automaticamente da un repository Google Drive**, suddivisi nelle cartelle previste (`acquisti_da_protocollare`, `vendite_da_protocollare` e relative sottocartelle).
+* **I file PDF da protocollare vengono scaricati da un repository Google Drive**, suddivisi nelle cartelle previste (`acquisti_da_protocollare`, `vendite_da_protocollare` e relative sottocartelle).
 
 * **Dopo la protocollazione**, i file vengono:
 
     **Caricati nuovamente nello stesso repository Google Drive**, ma nelle cartelle dedicate ai documenti protocollati (`acquisti_protocollate`, `vendite_protocollate`).
 
-* Lo script **rimuove automaticamente i PDF da protocollare che risultano già protocollati**, evitando duplicazioni se ci sono pdf vecchi nella cartella del programma.
+* **Rimuovi i PDF da protocollare che risultano già protocollati**, evitando duplicazioni se ci sono pdf vecchi nella cartella del programma.
   Se un file è già stato elaborato e si trova nella cartella dei protocollati, viene ignorato ed eliminato dalla cartella dei file in attesa su google drive.
 
 ## Note
