@@ -62,8 +62,7 @@ Lo script creerà automaticamente le cartelle di output:
 
 ### 3. Apri Prompt dei commandi dentro la cartella
 
-    cmd
-    <img width="859" height="129" alt="image" src="https://github.com/user-attachments/assets/432143f8-1858-480e-8f79-40fea33eeecd" />
+    cmd dentro la cartella
 
 
 ### 4. Installa i requisiti
